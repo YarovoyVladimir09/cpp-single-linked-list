@@ -1,6 +1,6 @@
 # cpp-single-linked-list
-Реализация односвязного списка с форвард итератором
-Реализованные методы:
+Implementation of a single linked list with a forward iterator
+Implemented methods:
 - PushFront()
 - Clear()
 - GetSize()
